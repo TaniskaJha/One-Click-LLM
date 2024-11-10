@@ -39,7 +39,7 @@ With just a few clicks on the Web UI, you can select your preferred LLM, deploy 
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/Chaitanyarai899/oneClickLLM
+   git clone https://github.com/TaniskaJha/One-Click-LLM
    ```
    
 2. **Navigate to the Directory**:  
