@@ -10,7 +10,7 @@ export default defineConfig({
     starlight({
       title: "OneClickLLM",
       social: {
-        github: "https://github.com/HoomanHQ/akash-hack2.0",
+        github: "https://github.com/TaniskaJha/One-Click-LLM",
       },
       customCss: ["./src/tailwind.css"],
       sidebar: [
